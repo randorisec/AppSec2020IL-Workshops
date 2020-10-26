@@ -22,7 +22,7 @@ Another alternative is to use Mobexler. We recommend to apply the following step
 * Install VMWare Player 15 (**DO NOT USE VirtualBox!!**)
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
-* Download **Mobexler* virtual machine (default password: 12345)
+* Download **Mobexler** virtual machine (default password: 12345)
 https://mobexler.com/download.htm
 
 * Import the OVA file using VMWare Player 15. If an error message appears sayng the OVA file didn't pass the OVF specifications, please click retry. It should work :)
