@@ -17,10 +17,12 @@ If you want to try those workshops, you need to use a Virtual Machine (or a phys
 * Objection
 * Frida
 
-Another alternative is to use Mobexler. We recommend to apply the following steps in order to use it:
+We gave a custom VM to the attendees but another alternative is to use Mobexler. We recommend to apply the following steps in order to use it:
 
 * Install VMWare Player 15 (**DO NOT USE VirtualBox!!**)
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+or Fusion 12 Trial if you have a Mac
+https://www.vmware.com/products/fusion/fusion-evaluation.html
 
 * Download **Mobexler** virtual machine (default password: 12345)
 https://mobexler.com/download.htm
